@@ -140,7 +140,7 @@
 <div style="position: fixed;top: 50%;left: 50%;width: 300px;background: #FFF;transform: translate(-50%, -50%);border-radius: 40px;padding: 50px 40px;">
 <h3 style="font-weight: bold;text-align: center;font-size: 30px;
 ">随身助手音乐平台</h3><div style="font-size: 16px;margin-top: 26px;line-height: 30px;color: #999;
-">一切都是为了更好的服务您<a href="https://www.hcw3.cn" target="_blank"><b>随身助手官网</b></a></div><a style="display: block;background: #98a3ff;color: #FFF;text-align: center;font-weight: bold;font-size: 19px;line-height: 60px;margin: 0 auto;margin-top: 45px;border-radius: 32px;width:50%;" onclick="javascript:document.querySelector('.web_notice').remove()">我知道了</ a></div></div>
+">一切都是为了更好的服务您<a href="https://www.hcw3.cn" target="_blank"><b>赞助商:随身助手官网</b></a></div><a style="display: block;background: #98a3ff;color: #FFF;text-align: center;font-weight: bold;font-size: 19px;line-height: 60px;margin: 0 auto;margin-top: 45px;border-radius: 32px;width:50%;" onclick="javascript:document.querySelector('.web_notice').remove()">我知道了</ a></div></div>
 <!-- 弹窗代码结束 红尘资源网 -->
 
 
