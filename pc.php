@@ -19,8 +19,8 @@
     <meta name="x5-page-mode" content="app"><!--QQ应用模式-->
     
     <title>随身助手音乐网</title>
-    <meta name="description" content="一款开源的基于网易云音乐api的在线音乐播放器。具有音乐搜索、播放、下载、歌词同步显示、个人音乐播放列表同步等功能。"/>
-    <meta name="keywords" content="红尘播放器,在线音乐播放器,Tool2OnlinePlayer,网易云音乐,音乐api,音乐播放器源代码"/>
+    <meta name="description" content="一款基于网易云音乐api的在线音乐播放器。具有音乐搜索、播放、下载、歌词同步显示、个人音乐播放列表同步等功能。"/>
+    <meta name="keywords" content="不说晚安在线音乐播放器,Tool2OnlinePlayer,网易云音乐,音乐api,音乐播放器源代码"/>
     
     <!-- 不支持IE8及以下版本浏览器 -->
     <!--[if lte IE 8]>
@@ -131,7 +131,7 @@
 <div style="position: fixed;top: 50%;left: 50%;width: 300px;background: #FFF;transform: translate(-50%, -50%);border-radius: 40px;padding: 50px 40px;">
 <h3 style="font-weight: bold;text-align: center;font-size: 30px;
 ">随身助手音乐平台</h3><div style="font-size: 16px;margin-top: 26px;line-height: 30px;color: #999;
-">一切都是为了更好的服务您<a href="https://www.hcw3.cn/" target="_blank"><b>随身助手官网</b></a></div><a style="display: block;background: #98a3ff;color: #FFF;text-align: center;font-weight: bold;font-size: 19px;line-height: 60px;margin: 0 auto;margin-top: 45px;border-radius: 32px;width:50%;" onclick="javascript:document.querySelector('.web_notice').remove()">我知道了</ a></div></div>
+">一切都是为了更好的服务您<a href="https://www.hcw3.cn/" target="_blank"><>赞助商链接</b></a></div><a style="display: block;background: #98a3ff;color: #FFF;text-align: center;font-weight: bold;font-size: 19px;line-height: 60px;margin: 0 auto;margin-top: 45px;border-radius: 32px;width:50%;" onclick="javascript:document.querySelector('.web_notice').remove()">我知道了</ a></div></div>
 <!-- 弹窗代码结束 红尘资源网 -->
 
 
@@ -164,7 +164,7 @@
 
 <!-- 站长统计代码 -->
 <span style="display: none">
- www.hcw3.cn 红尘资源分享
+ 
 <script>
 var _hmt = _hmt || [];
 (function() {
