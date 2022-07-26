@@ -19,8 +19,8 @@
     <meta name="x5-page-mode" content="app"><!--QQ应用模式-->
     
     <title>随身助手音乐网</title>
-    <meta name="description" content="一款开源的基于网易云音乐api的在线音乐播放器。具有音乐搜索、播放、下载、歌词同步显示、个人音乐播放列表同步等功能。"/>
-    <meta name="keywords" content="红尘播放器,在线音乐播放器,Tool2OnlinePlayer,网易云音乐,音乐api,音乐播放器源代码"/>
+    <meta name="description" content="一款基于网易云音乐api的在线音乐播放器。具有音乐搜索、播放、下载、歌词同步显示、个人音乐播放列表同步等功能。"/>
+    <meta name="keywords" content="不说晚安在线音乐播放器"/>
     
     <!-- 不支持IE8及以下版本浏览器 -->
     <!--[if lte IE 8]>
@@ -176,7 +176,7 @@
 
 <!-- 站长统计代码 -->
 <span style="display: none">
- www.hcw3.cn 红尘资源分享
+ 不说晚安
 <script>
 var _hmt = _hmt || [];
 (function() {
